@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BounsBot/static/css/main.f61e0def.chunk.css",
+    "main.js": "/BounsBot/static/js/main.ff68ae27.chunk.js",
+    "main.js.map": "/BounsBot/static/js/main.ff68ae27.chunk.js.map",
+    "runtime-main.js": "/BounsBot/static/js/runtime-main.5b48ce0a.js",
+    "runtime-main.js.map": "/BounsBot/static/js/runtime-main.5b48ce0a.js.map",
+    "static/css/2.fb17aa6d.chunk.css": "/BounsBot/static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.30e918c1.chunk.js": "/BounsBot/static/js/2.30e918c1.chunk.js",
+    "static/js/2.30e918c1.chunk.js.map": "/BounsBot/static/js/2.30e918c1.chunk.js.map",
+    "index.html": "/BounsBot/index.html",
+    "static/css/2.fb17aa6d.chunk.css.map": "/BounsBot/static/css/2.fb17aa6d.chunk.css.map",
+    "static/css/main.f61e0def.chunk.css.map": "/BounsBot/static/css/main.f61e0def.chunk.css.map",
+    "static/js/2.30e918c1.chunk.js.LICENSE.txt": "/BounsBot/static/js/2.30e918c1.chunk.js.LICENSE.txt",
+    "static/media/heyreaction.2db774eb.png": "/BounsBot/static/media/heyreaction.2db774eb.png",
+    "static/media/logo5.a661761a.svg": "/BounsBot/static/media/logo5.a661761a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b48ce0a.js",
+    "static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.30e918c1.chunk.js",
+    "static/css/main.f61e0def.chunk.css",
+    "static/js/main.ff68ae27.chunk.js"
+  ]
+}
